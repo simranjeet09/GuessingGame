@@ -7,4 +7,6 @@ Exmaple includes
 1. How to use navigation host 
 2. MVVM design pattern 
 
+Task 2
+Added Viewmodel factory for GameViewModel 
 
